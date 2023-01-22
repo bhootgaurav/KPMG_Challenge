@@ -1,0 +1,12 @@
+variable "web_nic_name" {}
+variable "app_nic_name" {}
+variable "db_nic_name" {}
+variable "web_vm_name" {}
+variable "app_vm_name" {}
+variable "db_vm_name" {}
+variable "vm_size" {}
+variable "web_hostname" {}
+variable "app_hostname" {}
+variable "db_hostname" {}
+variable "username" {}
+variable "password" {}
